@@ -52,9 +52,9 @@ else {
 _Let goed op de schrijfwijze, waar staan haakjes en wat staat er tussen de haakjes, als je niet de juiste syntax gebruikt weet PHP echt niet wat het moet doen!_
 
 ## Leerdoelen
->1. [ ] ik weet wat een if else statement is
->2. [ ] Ik maak een if else statement met verschillende vergelijkingen
->3. [ ] Ik volg de juiste regels voor het schrijven van een if else statement
+>1. [X] ik weet wat een if else statement is
+>2. [X] Ik maak een if else statement met verschillende vergelijkingen
+>3. [X] Ik volg de juiste regels voor het schrijven van een if else statement
 
 ## Opdracht
 

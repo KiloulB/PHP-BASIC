@@ -57,9 +57,9 @@ switch($score) {
 >_De meest gemaakte fout bij een `if` statement is dat de vergelijking met èèn `=` wordt geschreven `($variabele1 = $variabele2)` in plaats van `($variabele1 == $variabele2)`. Let daar goed op want je code gaat niet werken als je het fout doet!_
 >
 ## Leerdoelen
->1. [ ] ik weet wat een switch statement is
->2. [ ] Ik maak een een switch statement is
->3. [ ] Ik volg de juiste regels voor het schrijven van een switch statement
+>1. [X] ik weet wat een switch statement is
+>2. [X] Ik maak een een switch statement is
+>3. [X] Ik volg de juiste regels voor het schrijven van een switch statement
 
 ## Opdracht
 

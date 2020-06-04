@@ -57,10 +57,10 @@ if($variabele1 == $variabele2) {
 >_De meest gemaakte fout bij een `if` statement is dat de vergelijking met èèn `=` wordt geschreven `($variabele1 = $variabele2)` in plaats van `($variabele1 == $variabele2)`. Let daar goed op want je code gaat niet werken als je het fout doet!_
 >
 ## Leerdoelen
->1. [ ] Ik weet wat de verschillende conditional statements zijn
->2. [ ] ik weet wat een if statement is
->3. [ ] Ik maak een if statement met verschillende vergelijkingen
->4. [ ] Ik volg de juiste regels voor het schrijven van een if statement
+>1. [X] Ik weet wat de verschillende conditional statements zijn
+>2. [X] ik weet wat een if statement is
+>3. [X] Ik maak een if statement met verschillende vergelijkingen
+>4. [X] Ik volg de juiste regels voor het schrijven van een if statement
 
 ## Opdracht
 

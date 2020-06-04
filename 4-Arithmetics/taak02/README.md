@@ -24,8 +24,8 @@ Als je een bepaald getal (bijvoorbeeld 10)
 
 >
 ## Leerdoelen
->1. [ ] Ik weet wat assignment operators zijn
->2. [ ] Ik kan de waarde van een variabele veranderen met een assignment operator
+>1. [X] Ik weet wat assignment operators zijn
+>2. [X] Ik kan de waarde van een variabele veranderen met een assignment operator
 
 ## Opdracht
 >1. Schrijf je code in `index.php`

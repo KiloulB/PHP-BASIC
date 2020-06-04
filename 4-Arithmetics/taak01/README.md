@@ -24,8 +24,8 @@ Als je de variabelen
 
 >
 ## Leerdoelen
->1. [ ] Ik weet wat arithmitc operators zijn
->2. [ ] Ik kan rekenen met twee integer variabelen
+>1. [X] Ik weet wat arithmitc operators zijn
+>2. [X] Ik kan rekenen met twee integer variabelen
 
 ## Opdracht
 >1. Schrijf je code in `index.php`

@@ -1,4 +1,4 @@
 <?php
 $_naam_ = "Bilal";
-echo '$_naam_';
+echo $_naam_;
 ?>

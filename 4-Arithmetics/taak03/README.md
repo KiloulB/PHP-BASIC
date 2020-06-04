@@ -40,8 +40,8 @@ _Voor nu hoef je alleen te onthouden wat het verschil is als je de ++ of -- voor
 
 >
 ## Leerdoelen
->1. [ ] Ik weet wat increment operators zijn
->2. [ ] Ik kan de waarde van een variabele veranderen met een increment operator
+>1. [X] Ik weet wat increment operators zijn
+>2. [X] Ik kan de waarde van een variabele veranderen met een increment operator
 
 ## Opdracht
 >1. Schrijf je code in `index.php`

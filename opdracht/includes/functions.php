@@ -4,6 +4,8 @@ function getInput()
 {
     $input = $_GET['input'] ?? 'vul een waarde in hierboven en klik op [check]';
     echo $input;
+    echo " is ";
+    echo gettype($input);
 }
 
 
@@ -25,4 +27,8 @@ function getAge()
     echo $leeftijd;
 }
 
+// function checkData(){
+//     $check = $_GET['input'] ?? 'vul een waarde in hierboven en klik op [check]';
+//     echo gettype($input);
+// }
 ?>

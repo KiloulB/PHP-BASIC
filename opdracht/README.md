@@ -30,16 +30,16 @@ In deze opdracht moet je naast code schrijven ook logisch nadenken welke functie
 * Voor je start met programmeren moet je een plan (pseudocode) maken in Word of op papier
 >
 Voor deze opdracht moet je: 
-* Een website maken met 2 pagina's een home en een productpagina. 
-* Op beide pagina's moet een werkend menu staan en een footer welke via include geplaatst zijn (maak dus een `menu.php en footer.php`.
-* De PHP functies in deze website zijn vereist en staan in een aparte pagina `functions.php`. Als deze pagina niet gevonden wordt dan moet er een _fatale foutmelding gegeven_ worden.
-* Alle code moet volgens de juiste syntax zijn geschreven.
-* De volgende elementen moeten terug komen in de code: _variabelen, datatype, string operators, indexed array, comparison operators, conditional statements, logical operators, include en require en functies_
-* Op de homepagina (`index.php`) moet je het datatype van een ingevoerde waarde kunnen opvragen.  
+*- Een website maken met 2 pagina's een home en een productpagina. 
+*- Op beide pagina's moet een werkend menu staan en een footer welke via include geplaatst zijn (maak dus een `menu.php en footer.php`.
+*- De PHP functies in deze website zijn vereist en staan in een aparte pagina `functions.php`. Als deze pagina niet gevonden wordt dan moet er een _fatale foutmelding gegeven_ worden.
+*- Alle code moet volgens de juiste syntax zijn geschreven.
+*- De volgende elementen moeten terug komen in de code: _variabelen, datatype, string operators, indexed array, comparison operators, conditional statements, logical operators, include en require en functies_
+*- Op de homepagina (`index.php`) moet je het datatype van een ingevoerde waarde kunnen opvragen.  
 _Een deel van de code is al voor je ingevuld, jij moet de ontbrekende code aanvullen_ 
-* Op de producten (`producten.php`) moet je een lijst van 10 producten en hun prijs laten zien.
-  * De producten moeten uit een array komen
-  * De prijzen (in decimalen) moeten uit een array komen 
+*- Op de producten (`producten.php`) moet je een lijst van 10 producten en hun prijs laten zien.
+  *- De producten moeten uit een array komen
+  *- De prijzen (in decimalen) moeten uit een array komen 
 * Op de productenpagina kan de gebruiker het artikelnummer (#) invullen en het aantal dat hij wilt bestellen. Als de gebruiker op [bereken totaal] klikt moet hij de totaal prijs van de producten te zien krijgen.
 * Om te kunnen bestellen moet de klant zijn leeftijd invullen.
   * Als de klant jonger is dan 16 is dan krijgt hij 1 euro korting op de totaalprijs.

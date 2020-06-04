@@ -37,10 +37,10 @@ Nu moeten we nog leren hoe we de waardes op het scherm kunnen tonen
 ```
 >
 ## Leerdoelen
->1. [ ] Ik weet wat een indexed array is
->2. [ ] Ik maak een indexed array aan in PHP 
->4. [ ] Ik volg de juiste regels voor het maken van een indexed array
->5. [ ] Ik kan de waarde(s) van een indexed array variabele op het scherm tonen
+>1. [X] Ik weet wat een indexed array is
+>2. [X] Ik maak een indexed array aan in PHP 
+>4. [X] Ik volg de juiste regels voor het maken van een indexed array
+>5. [X] Ik kan de waarde(s) van een indexed array variabele op het scherm tonen
 
 ## Opdracht
 
